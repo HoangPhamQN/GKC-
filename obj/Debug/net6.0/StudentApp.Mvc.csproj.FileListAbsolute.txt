@@ -1,0 +1,70 @@
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\appsettings.Development.json
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\appsettings.json
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.staticwebassets.runtime.json
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.exe
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.deps.json
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.runtimeconfig.json
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.pdb
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.csproj.AssemblyReference.cache
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.AssemblyInfoInputs.cache
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.AssemblyInfo.cs
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.csproj.CoreCompileInputs.cache
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.RazorAssemblyInfo.cache
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.RazorAssemblyInfo.cs
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\scopedcss\bundle\StudentApp.Mvc.styles.css
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\scopedcss\projectbundle\StudentApp.Mvc.bundle.scp.css
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\refint\StudentApp.Mvc.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.pdb
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.genruntimeconfig.cache
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\ref\StudentApp.Mvc.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Humanizer.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\MySqlConnector.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\My Sefl\SOA\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.csproj.CopyComplete
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.staticwebassets.runtime.json
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.exe
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.deps.json
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.runtimeconfig.json
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\StudentApp.Mvc.pdb
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.AssemblyInfo.cs
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\scopedcss\bundle\StudentApp.Mvc.styles.css
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\scopedcss\projectbundle\StudentApp.Mvc.bundle.scp.css
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.csproj.CopyComplete
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\refint\StudentApp.Mvc.dll
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.pdb
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\StudentApp.Mvc.genruntimeconfig.cache
+C:\Users\Admin\Desktop\MVC_API_dotnet\StudentApp.Mvc\obj\Debug\net6.0\ref\StudentApp.Mvc.dll
